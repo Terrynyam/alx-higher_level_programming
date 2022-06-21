@@ -14,6 +14,8 @@ Directories | Description
 [0x02-python-import_modules](./0x02-python-import_modules) | Introduction to Python modules
 [0x03-python-data_structures](./0x03-python-data_structures) | Introduction to Python data structures
 [0x04-python-more_data_structures](./0x04-python-more_data_structures) | Advanced data structures in Python
+[0x05-python-exceptions](./0x05-python-exceptions) | Introduction to Python exceptions and error handling
+[0x06-python-classes](./0x06-python-classes) | Introduction to classes in Python
 
 ## Author
 
