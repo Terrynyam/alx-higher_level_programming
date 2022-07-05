@@ -19,7 +19,8 @@ Directories | Description
 [0x07-python-test_driven_development](./0x07-python-test_driven_development) | Introduction to unit tests, docstring tests in Python
 [0x08-python-more_classes](./0x08-python-more_classes) | Advanced classes in Python
 [0x09-python-everything_is_object](./0x09-python-everything_is_object) | Introduction to OOP concepts in Python
-
+[0x0A-python-inheritance](./0x0A-python-inheritance) | More OOP and introduction to class inheritance in Python
+[0x0B-python-input_output](./0x0B-python-input_output) | Introduction to file input and output in Python
 ## Author
 
 Terrance Nyamfukudza - Cohort 5
