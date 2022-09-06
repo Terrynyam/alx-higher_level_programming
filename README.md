@@ -21,6 +21,10 @@ Directories | Description
 [0x09-python-everything_is_object](./0x09-python-everything_is_object) | Introduction to OOP concepts in Python
 [0x0A-python-inheritance](./0x0A-python-inheritance) | More OOP and introduction to class inheritance in Python
 [0x0B-python-input_output](./0x0B-python-input_output) | Introduction to file input and output in Python
+[0x12-javascript-warm_up](./0x12-javascript-warm_up) | Introduction to Javascript/NodeJS: variables, functions, loops, if/else, scope
+[0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures) | Introduction to NodeJS: objects, scopes, closures
+
+
 ## Author
 
 Terrance Nyamfukudza - Cohort 5
